@@ -1,3 +1,4 @@
+// Credit siyam- 23024005
 #include <stdio.h>
 int main()
 {
